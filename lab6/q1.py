@@ -1,0 +1,2 @@
+d1 = {"INDIA":"NEW DELHI","CHINA":"BEJJING","ITALY":"ROME"}
+print(d1)
